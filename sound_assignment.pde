@@ -1,3 +1,5 @@
+// can you please write how this file is expected to work- is it on key press? or otherwise?
+
 import processing.sound.*;
 Reverb reverb;
 SinOsc sin1;
